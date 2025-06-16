@@ -1,5 +1,7 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
 
+**Terakhir diperbarui pada: Senin, 16 Juni 2025, 15:09 WIB**
+
 ## Business Understanding
 
 Jaya Jaya Maju adalah perusahaan multinasional yang berdiri sejak tahun 2000 dan memiliki lebih dari 1.000 karyawan di berbagai wilayah. Perusahaan ini bergerak di berbagai sektor dengan fokus utama pada pengembangan sumber daya manusia dan teknologi. Meskipun telah berkembang pesat, Jaya Jaya Maju menghadapi tantangan signifikan terkait tingginya tingkat *attrition* (pergantian karyawan) yang melebihi 10%. Kondisi ini dapat meningkatkan biaya rekrutmen, menurunkan produktivitas, dan mengganggu stabilitas organisasi.
@@ -128,6 +130,12 @@ Dashboard interaktif telah dibuat untuk membantu tim HR memantau metrik *attriti
 **Link Dashboard:**  
 [http://localhost:3000/public/dashboard/157bc3f7-874f-4ac9-95d7-cef041683f4f](http://localhost:3000/public/dashboard/157bc3f7-874f-4ac9-95d7-cef041683f4f)
 
+**Akses Dashboard:**  
+Dashboard ini dapat diakses dengan kredensial berikut:  
+- URL: `http://localhost:3000`  
+- Username: `root@mail.com`  
+- Password: `root123`
+
 ## Conclusion
 
 Analisis menunjukkan bahwa faktor-faktor seperti lembur, status pernikahan, usia, pengalaman kerja, dan tingkat penghasilan memiliki pengaruh signifikan terhadap tingkat *attrition*. Model prediktif yang dikembangkan berhasil mengidentifikasi karyawan dengan risiko tinggi untuk keluar, memungkinkan intervensi dini oleh tim HR. Dashboard yang dibuat memberikan gambaran yang jelas dan interaktif untuk mendukung pengambilan keputusan berbasis data.
@@ -151,4 +159,3 @@ Analisis menunjukkan bahwa faktor-faktor seperti lembur, status pernikahan, usia
 
 6. **Survei Kepuasan Karyawan**  
    Melakukan survei kepuasan karyawan secara rutin untuk memahami kebutuhan mereka dan meningkatkan *engagement*.
-```
